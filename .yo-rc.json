@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "betterDoctorIncrementalSearch",
+    "style": "css",
+    "postcss": false
+  }
+}
